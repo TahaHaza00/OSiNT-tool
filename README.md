@@ -6,7 +6,7 @@ This is copyrighted by Taha Haza and his legal team, if stolen, legal action wil
 This is an OSiNT tool that can be used to lookup and find peoples socials, reverse lookup someones email, and go through breached databases. In the near future, there will be more updates 
 
 # How to set up
-To set up and to use, it's simple, clone the git repository in your directory of choice and run the following command:
+To set up and to use, it's simple, clone the git repository (https://github.com/TahaHaza00/OSiNT-tool.git) in your directory of choice and run the following command:
 python3 src/main.py
 and BOOM!
 It's up and running
