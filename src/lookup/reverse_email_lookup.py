@@ -13,8 +13,8 @@ Email = input("Enter user's email: ")
 querystring = {"func":"auto","term":"{Email}"}
 
 headers = {
-    "X-RapidAPI-Key": "d9cd519847msh9053355782459b1p16cf51jsnb612123ca28a",
-	"X-RapidAPI-Host": "breachdirectory.p.rapidapi.com"
+    "X-RapidAPI-Key": "",
+    "X-RapidAPI-Host": "WEBSITE HOST (in this case it will be https://breachdirectory.p.rapidapi.com/)",
 }
 
 response = requests.request("GET", url, headers=headers, params=querystring)
